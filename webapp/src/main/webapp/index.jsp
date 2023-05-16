@@ -30,6 +30,8 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
+  <br>
+  <br>
 
    <h1> Thankyou, Happy Learning </h1>
    <h1> DevOps Practice 16th May 2023 - Amarnath </h1>
