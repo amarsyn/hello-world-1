@@ -35,6 +35,6 @@
   <br>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h1> DevOps Practice 17th May 2023 - Amarnath </h1>
+   <h1>  DevOps Practice 17th May 2023 - Amarnath </h1>
   
 </form>
