@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> DevOps Practice 22nd May 2023, Monday 12.23 pm IST - Amarnath </h1>
+    <h1> DevOps Practice 22nd May 2023, Monday 5.50 pm IST - Amarnath </h1>
     <h1> New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
